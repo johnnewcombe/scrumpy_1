@@ -1,0 +1,40 @@
+/*
+    Copyright (c) 2025 John Newcombe
+
+    This file is part of the Software known as GlassTTY Viewdata Client.
+
+    GlassTTY Viewdata Client is free software: you can redistribute
+    it and/or modify it under the terms of the GNU General Public
+    License as published by the Free Software Foundation, either
+    version 3 of the License, or (at your option) any later version.
+    GlassTTY Viewdata Client is distributed in the hope that it will
+    be useful, but WITHOUT ANY WARRANTY; without even the implied
+    warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+    See the GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with the product. If not, see <https://www.gnu.org/licenses/>.
+
+*/
+
+
+namespace ViewdataDisplay;
+
+public class Char(char value, string foreground = Constants.White, string background = Constants.Black)
+{
+    // NOTE, changing anything here MUST be reflected in the Extensions Class also.
+    public char Value { get; set; } = value;
+    public bool InVisible { get; set; }
+    // ReSharper disable once UnusedAutoPropertyAccessor.Global
+    public bool Invalid { get; set; }
+    public bool Control { get; set; }
+    public bool Concealed { get; set; }
+    public bool Flash { get; set; }
+    public bool Separated { get; set; }
+    public bool Graphic { get; set; }
+    public bool GraphicsHold { get; set; }
+    public bool DoubleHeight { get; set; }
+    public int Index { get; set; }
+    public string Foreground { get; set; } = foreground;
+    public string Background { get; set; } = background;
+}
