@@ -1,0 +1,12 @@
+/home/john/Dropbox/Repositories/telstar-client-avalonia/ViewdataDisplay/bin/Debug/net9.0/ViewdataDisplay.deps.json
+/home/john/Dropbox/Repositories/telstar-client-avalonia/ViewdataDisplay/bin/Debug/net9.0/ViewdataDisplay.dll
+/home/john/Dropbox/Repositories/telstar-client-avalonia/ViewdataDisplay/bin/Debug/net9.0/ViewdataDisplay.pdb
+/home/john/Dropbox/Repositories/telstar-client-avalonia/ViewdataDisplay/obj/Debug/net9.0/ViewdataDisplay.GeneratedMSBuildEditorConfig.editorconfig
+/home/john/Dropbox/Repositories/telstar-client-avalonia/ViewdataDisplay/obj/Debug/net9.0/ViewdataDisplay.AssemblyInfoInputs.cache
+/home/john/Dropbox/Repositories/telstar-client-avalonia/ViewdataDisplay/obj/Debug/net9.0/ViewdataDisplay.AssemblyInfo.cs
+/home/john/Dropbox/Repositories/telstar-client-avalonia/ViewdataDisplay/obj/Debug/net9.0/ViewdataDisplay.csproj.CoreCompileInputs.cache
+/home/john/Dropbox/Repositories/telstar-client-avalonia/ViewdataDisplay/obj/Debug/net9.0/ViewdataDisplay.sourcelink.json
+/home/john/Dropbox/Repositories/telstar-client-avalonia/ViewdataDisplay/obj/Debug/net9.0/ViewdataDisplay.dll
+/home/john/Dropbox/Repositories/telstar-client-avalonia/ViewdataDisplay/obj/Debug/net9.0/refint/ViewdataDisplay.dll
+/home/john/Dropbox/Repositories/telstar-client-avalonia/ViewdataDisplay/obj/Debug/net9.0/ViewdataDisplay.pdb
+/home/john/Dropbox/Repositories/telstar-client-avalonia/ViewdataDisplay/obj/Debug/net9.0/ref/ViewdataDisplay.dll
